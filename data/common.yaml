@@ -10,5 +10,5 @@ tomcat::deploy::tomcat_deploy_url:            'puppet:///modules/tomcat/sample.w
 tomcat::deploy::tomcat_path:                  '/usr/share/tomcat/webapps'
 tomcat::deploy::tomcat_user:                  'tomcat'
 tomcat::deploy::tomcat_group:                 'tomcat'
-tomcat::index::environment:                   'Production'
+tomcat::index::environment:                   'development'
 tomcat::index::deploy_path_sample:            '/usr/share/tomcat/webapps/sample'
